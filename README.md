@@ -1,6 +1,6 @@
 # Author statement
 
-This repository contains supporting files of data and code for the paper manuscript titled "Transfer-ΔΔG: A Transfer Learning Approach for Predicting Changes in Protein-Protein Binding Affinity Induced by Mutations Using Large Pre-Trained Models".The focus of this work is to predict changes in protein-protein affinity using large pre-trained protein language models and protein sequence information.
+This repository contains supporting files of data and code for the paper manuscript titled "Prot-ΔΔG: A Transfer Learning Approach for Predicting Changes in Protein-Protein Binding Affinity Induced by Mutations Using Large Pre-Trained Models".The focus of this work is to predict changes in protein-protein affinity using large pre-trained protein language models and protein sequence information.
 
 # Resources:
 
